@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.learning_platform.configs.RestTemplateConfig,\
+com.learning_platform.configs.CorsConfig,\
+com.learning_platform.configs.SecurityConfig 
+
+org.springframework.boot.context.properties.EnableConfigurationProperties=\
+com.learning_platform.configs.SecurityConfig 
