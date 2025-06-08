@@ -11,6 +11,7 @@ com/learning_platform/dtos/UserDto.class
 com/learning_platform/enums/Role.class
 com/learning_platform/dtos/ServiceConfigDto.class
 com/learning_platform/configs/CorsConfig$1.class
+com/learning_platform/utils/EncodeInformation.class
 com/learning_platform/filters/JWTFilter.class
 com/learning_platform/utils/CommonJwtUtils.class
 com/learning_platform/configs/RestTemplateConfig.class

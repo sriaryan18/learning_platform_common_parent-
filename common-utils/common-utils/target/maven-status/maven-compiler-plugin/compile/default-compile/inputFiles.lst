@@ -11,5 +11,6 @@
 /Users/kuliza_2024_2/personal/learning-platform/utils/common-utils/common-utils/src/main/java/com/learning_platform/filters/Auth/AuthSecurity.java
 /Users/kuliza_2024_2/personal/learning-platform/utils/common-utils/common-utils/src/main/java/com/learning_platform/filters/JWTFilter.java
 /Users/kuliza_2024_2/personal/learning-platform/utils/common-utils/common-utils/src/main/java/com/learning_platform/utils/CommonJwtUtils.java
+/Users/kuliza_2024_2/personal/learning-platform/utils/common-utils/common-utils/src/main/java/com/learning_platform/utils/EncodeInformation.java
 /Users/kuliza_2024_2/personal/learning-platform/utils/common-utils/common-utils/src/main/java/com/learning_platform/utils/PasswordHashManager.java
 /Users/kuliza_2024_2/personal/learning-platform/utils/common-utils/common-utils/src/main/java/com/learning_platform/utils/ServiceApiClient.java
