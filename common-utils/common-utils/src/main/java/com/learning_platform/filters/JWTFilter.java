@@ -91,7 +91,8 @@ public class JWTFilter extends OncePerRequestFilter {
         userDetails.put("username", username);
         userDetails.put(AppConstants.SUBSCRIPTION, claims.get(AppConstants.SUBSCRIPTION));
         userDetails.put(AppConstants.CLAIM_USER, claims.get(AppConstants.CLAIM_USER));
-
+        // userDetails.put(AppConstants.CLAIM_USER_ID, claims.get(AppConstants.CLAIM_USER_ID));
+        userDetails.put(AppConstants.ALL_CLAIMS, claims);
         // Set authentication in security context
         UsernamePasswordAuthenticationToken authToken =
             new UsernamePasswordAuthenticationToken(userDetails, null, authorities);

@@ -19,4 +19,5 @@ public class AppConstants {
   public static final String CLAIM_ID = "id";
   public static final String CLAIM_EMAIL = "email";
   public static final String CLAIM_PHONE_NUMBER = "phoneNumber";
+  public static final String ALL_CLAIMS = "allClaims";
 }
